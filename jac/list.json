@@ -1,3 +1,192 @@
 {
-  "hello":"Hello"
+  "class9": {
+    "title": "Class 9",
+    "subTitle": "06-06-2023",
+    "heading": "Class 9 Examination",
+    "class": "9",
+    "view": "9",
+    "url": "https://www.jacresults.com/cls-nine-2023/show_result.php",
+    "rollSize": 4,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": "new"
+  },
+  "class10": {
+    "title": "Class 10",
+    "subTitle": "23-05-2023",
+    "heading": "Annual Secondary Examination",
+    "class": "10",
+    "view": "10",
+    "url": "https://www.jacresults.com/sec-all/show_result.php",
+    "rollSize": 4,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "class11": {
+    "title": "Class 11",
+    "subTitle": "13-06-2023",
+    "heading": "Classs 11 Examination",
+    "class": "11",
+    "view": "9",
+    "url": "https://www.jacresults.com/cls-eleven-2023/main_result.php",
+    "rollSize": 5,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "class12science": {
+    "title": "Class 12 Science",
+    "subTitle": "23-05-2023",
+    "heading": "Annual Intermediate Science Examination",
+    "class": "12science",
+    "view": "10",
+    "url": "https://www.jacresults.com/science/show_result.php",
+    "rollSize": 5,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "class12arts": {
+    "title": "Class 12 Arts",
+    "subTitle": "30-05-2023",
+    "heading": "Annual Intermediate Arts Examination",
+    "class": "12arts",
+    "view": "10",
+    "url": "https://www.jacresults.com/arts/show_result.php",
+    "rollSize": 5,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 0
+  },
+  "class12commerce": {
+    "title": "Class 12 Commerce",
+    "subTitle": "30-05-2023",
+    "heading": "Annual Intermediate Commerce Examination",
+    "class": "12commerce",
+    "view": "10",
+    "url": "https://www.jacresults.com/commerce/show_result.php",
+    "rollSize": 5,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "class12vocational": {
+    "title": "Class 12 Vocational",
+    "subTitle": "02-06-2023",
+    "heading": "Intermediate Vocational Examination",
+    "class": "12vocational",
+    "view": "10",
+    "url": "https://www.jacresults.com/vocational/show_result.php",
+    "rollSize": 4,
+    "rollCodeSize": 4,
+    "order": 100,
+    "status": 1
+  },
+  "class10comp": {
+    "title": "Class 10<br/>(Compartmental)",
+    "subTitle": "30-09-2023",
+    "heading": "Compartmental Secondary Examination",
+    "class": "10comp",
+    "view": "10",
+    "url": "https://www.jacresults.com/jac-sec-comp-result-2022/show_result.php",
+    "rollSize": 4,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "class12compscience": {
+    "title": "Class 12 Science<br/>(Compartmental)",
+    "subTitle": "30-09-2022",
+    "heading": "Compartmental Intermediate Science Examination",
+    "class": "12compscience",
+    "view": "10",
+    "url": "https://www.jacresults.com/jac-inter-compart-result-2022/science-comp-result/show_result.php",
+    "rollSize": 5,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "class12comparts": {
+    "title": "Class 12 Arts<br/>(Compartmental)",
+    "subTitle": "30-09-2022",
+    "heading": "Compartmental Intermediate Arts Examination",
+    "class": "12comparts",
+    "view": "10",
+    "url": "https://www.jacresults.com/jac-inter-compart-result-2022/arts-comp-result/show_result.php",
+    "rollSize": 5,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "class12compcommerce": {
+    "title": "Class 12 Commerce<br/>(Compartmental)",
+    "subTitle": "30-09-2022",
+    "heading": "Compartmental Intermediate Commerce Examination",
+    "class": "12compcommerce",
+    "view": "10",
+    "url": "https://www.jacresults.com/jac-inter-compart-result-2022/commerce-comp-result/show_result.php",
+    "rollSize": 5,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "classMadhyamaSnk": {
+    "title": "Madhyama (Sanskrit) - 2023",
+    "subTitle": "Published on 11-08-2023",
+    "heading": "Madhyama (Sanskrit) Examination",
+    "class": "MadhyamaSnk",
+    "view": "10",
+    "url": "https://www.jacresults.com/madhyama-2023/show_result.php",
+    "rollSize": 5,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1
+  },
+  "classMadrasa2023": {
+    "title": "Madrasa Examination - 2023",
+    "subTitle": "Published on 11-08-2023",
+    "heading": "Madrasa Examination - 2023",
+    "class": "Madrasa2023",
+    "view": "10",
+    "url": "https://www.jacresults.com/madrassa-2023/madarsa_result.php",
+    "rollSize": 4,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1,
+    "select": [
+      {
+        "label": "Class",
+        "name": "pattern",
+        "options": [
+          { "value": "wastania", "label": "Wastania" },
+          { "value": "fauqania", "label": "Fauqania" },
+          { "value": "moulvi", "label": "Moulvi" }
+        ]
+      }
+    ]
+  },
+  "classMadrasa2022": {
+    "title": "Madrasa Examination - 2022",
+    "subTitle": "Published on 11-08-2023",
+    "heading": "Madrasa Examination - 2022",
+    "class": "Madrasa2022",
+    "view": "10",
+    "url": "https://www.jacresults.com/madrassa-2022/madarsa_result_alim.php",
+    "rollSize": 4,
+    "rollCodeSize": 5,
+    "order": 100,
+    "status": 1,
+    "select": [
+      {
+        "label": "Class",
+        "name": "pattern",
+        "options": [
+          { "value": "alim", "label": "Alim" },
+          { "value": "alimh", "label": "Alim (H)" },
+          { "value": "Fazil", "label": "Fazil" }
+        ]
+      }
+    ]
+  }
 }
